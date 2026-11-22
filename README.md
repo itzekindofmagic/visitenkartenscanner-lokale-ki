@@ -1,4 +1,4 @@
-# Visitenkartenscanner für iPhone
+# Visitenkartenscanner mit lokaler KI für iPhone
 
 Ein Kurzbefehl für Apple Kurzbefehle: Visitenkarte fotografieren, Felder automatisch erkennen, Kontakt als vCard anlegen. Texterkennung und KI-Auswertung laufen **auf dem iPhone**. Die Kartendaten gehen dafür an keinen Cloud-Dienst.
 
